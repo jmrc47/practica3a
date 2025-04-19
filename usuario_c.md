@@ -1,6 +1,6 @@
-# usuario c
-##  usuario c
-### Usuario c
+# usuario C
+##  usuario C
+### Usuario C
 
 Este texto está en **negrita**, y este otro en *cursiva*
 
