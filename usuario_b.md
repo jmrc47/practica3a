@@ -1,6 +1,6 @@
 # usuario B
 ##  usuario B
-### Usuario B
+### usuario B
 
 Este texto está en **negrita**, y este otro en *cursiva*
 
