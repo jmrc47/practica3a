@@ -1,12 +1,6 @@
-<<<<<<<< HEAD:usuario_c.md
 # usuario c
 ##  usuario c
 ### Usuario c
-========
-# usuario a
-##  usuario a
-### Usuario a
->>>>>>>> origin/HEAD:usuario_a.md
 
 Este texto está en **negrita**, y este otro en *cursiva*
 
