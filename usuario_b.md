@@ -1,12 +1,6 @@
-<<<<<<<< HEAD:usuario_a.md
-# usuario a
-##  usuario a
-### Usuario a
-========
 # usuario b
 ##  usuario b
 ### Usuario b
->>>>>>>> 69093f7 (b11):usuario_b.md
 
 Este texto está en **negrita**, y este otro en *cursiva*
 
